@@ -1,6 +1,7 @@
 __pycache__/
 *.py[cod]
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 =======
 <<<<<<< HEAD
@@ -9,3 +10,6 @@ __pycache__/
 .env
 >>>>>>> main
 >>>>>>> shda1012
+=======
+.env
+>>>>>>> lyol1011

@@ -2,7 +2,7 @@
 import requests
 import numpy as np
 import pandas as pd
-from api_key_coingecko import API_KEY
+from api_key import API_KEY
 from openai import OpenAI
 import os
 from dotenv import load_dotenv

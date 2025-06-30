@@ -1,9 +1,8 @@
 import requests
 import json
 import os
-from datetime import date, timedelta, datetime
+from datetime import datetime
 import pandas as pd
-import numpy as np
 
 from api_key import API_KEY # API-Schlüssel für die CoinGecko-API
 
